@@ -12,3 +12,8 @@ A static website using HTML, CSS and Node Js.
 - ```cd laptop-store```
 - ```node index.js```
 - visit ``http://localhost:1337/`` in your browser
+
+
+### Page Screenshot
+![image](https://github.com/user-attachments/assets/bd44e5a9-73a7-4d91-8b43-f2ac9d24a52a)
+
