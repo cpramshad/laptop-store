@@ -14,6 +14,10 @@ A static website using HTML, CSS and Node Js.
 - visit ``http://localhost:1337/`` in your browser
 
 
-### Page Screenshot
+### Page Screenshots
+#### Products List Page
 ![image](https://github.com/user-attachments/assets/bd44e5a9-73a7-4d91-8b43-f2ac9d24a52a)
+#### Product Details Page (popup)
+![image](https://github.com/user-attachments/assets/2f4681ce-d57b-4666-90e9-ce3b00ebe14b)
+
 
